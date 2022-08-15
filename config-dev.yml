@@ -1,5 +1,6 @@
 server:
   port: 7777
+  ver: 1
 
 spring:
   application:
