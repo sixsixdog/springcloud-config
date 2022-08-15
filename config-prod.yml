@@ -1,7 +1,8 @@
 ##生产配置
 server:
   port: 7971
-
+  ver: 1
+  
 spring:
   application:
     #应用名称
