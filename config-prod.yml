@@ -1,7 +1,6 @@
 ##生产配置
 server:
   port: 7971
-  ver: 23
   
 spring:
   application:
@@ -32,5 +31,8 @@ eureka:
     service-url:
       #注册地址
       defaultZone: http://eureka8088:8088/eureka/
+
+config:
+    ver: 23
 
 
