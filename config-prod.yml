@@ -34,5 +34,9 @@ eureka:
 
 config:
     ver: 2333
-
+management:
+  endpoint:
+    web:
+      exposure:
+        include: "*"
 
