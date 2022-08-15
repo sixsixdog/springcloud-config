@@ -1,6 +1,5 @@
 server:
   port: 7777
-  ver: 1
 
 spring:
   application:
@@ -32,4 +31,5 @@ eureka:
       #注册地址
       defaultZone: http://eureka8088:8088/eureka/
 
-
+config:
+    ver: 23
