@@ -1,7 +1,7 @@
 ##生产配置
 server:
   port: 7971
-  ver: 1
+  ver: 24
   
 spring:
   application:
