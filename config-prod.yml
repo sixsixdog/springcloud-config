@@ -33,7 +33,7 @@ eureka:
       defaultZone: http://eureka8088:8088/eureka/
 
 config:
-    ver: 2333
+    ver: 24
 management:
   endpoint:
     web:
